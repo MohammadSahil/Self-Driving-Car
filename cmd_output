@@ -2343,3 +2343,4 @@ Epoch: 29, Step: 450, Loss: 0.0751079
 Model saved in file: ./save/model.ckpt
 Run the command line:
 --> tensorboard --logdir=./logs 
+Then open http://0.0.0.0:6006/ into your web browser
