@@ -1,6 +1,6 @@
 # Self-Driving-Car
 A TensorFlow implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with some changes.
-<img src="https://images.app.goo.gl/SaETpiAHY4wkJZFg9">
+<img src="https://miro.medium.com/max/875/1*luP5Icnj7QjDRIem5wV_Bw.png">
 
 
 ## Problem Definition
